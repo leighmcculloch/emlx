@@ -18,8 +18,8 @@ archives:
       - LICENSE
 
 brews:
-  -
-    github:
+  - name: emlx
+    tap:
       owner: leighmcculloch
       name: emlx
     folder: Formula
