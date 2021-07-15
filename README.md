@@ -4,6 +4,11 @@ Email file (.eml) attachment and embedded file extractor.
 ## Install
 
 ```
+brew install 4d63/emlx/emlx
+```
+or
+
+```
 go install github.com/leighmcculloch/emlx@latest
 ```
 
